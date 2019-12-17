@@ -6,3 +6,6 @@ Before
 After
 
 ![After](https://github.com/abnan/MINEReg/blob/master/images/after_compressed.gif "After")
+
+New
+![New](https://github.com/abnan/MINEReg/blob/master/images/transformation_sequence_small.gif "New")
